@@ -64,7 +64,7 @@ Tools: `VS Code`
 
 ##  <a href="https://github.com/NileshNama/Paytm-HomePage-Clone" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185099385-899f7571-5682-4841-a218-c5704fcd1816.png" alt="tick box pic" width="30" border="10" /> </a> I learnt 
 
-- HTML tags & CSS basics
+- HTML tags & TailWind CSS basics and classes
 
 
 
