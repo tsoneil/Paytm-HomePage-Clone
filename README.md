@@ -18,7 +18,7 @@
 
 <!-- ## About Project -->
 
-  - in this project  built a In this project, i cloned paytm.com home-webpage using html and tailwind css.
+  - in this project cloned paytm.com home-webpage using html and tailwind css.
   - all pictures and assets are from paytm official and using pure tailwind css (Mobile Responsive).
   
   
