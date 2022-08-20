@@ -33,7 +33,7 @@
 
 <!--Images + Link all of to the deployed website/Project site -->
 
-<a href="https://paytm-homepage-clone-by-nilesh.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185568107-e1d6d239-c86c-47ee-b723-92cb65b5e9c9.png" alt="project website preview ss" width="400" border="10" /></a>  <a href="https://paytm-homepage-clone-by-nilesh.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185569316-1de4bb71-eec6-41e3-8874-8ef17178f712.png" alt="project website preview ss" width="400" border="10" /></a>
+<a href="https://paytm-homepage-clone-by-nilesh.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185568107-e1d6d239-c86c-47ee-b723-92cb65b5e9c9.png" alt="project website preview ss" width="400" border="10" /></a>  <a href="https://paytm-homepage-clone-by-nilesh.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185569316-1de4bb71-eec6-41e3-8874-8ef17178f712.png" alt="project website preview ss" width="400" border="10" /></a>  <a href="https://twitter.com/NileshNama1/status/1560818687338172416?s=20&t=QJ8xm__Ywj62J9jgAYH0XA" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185728181-d534d754-318c-4d4a-bef8-5673168dbba3.png" alt="project website preview ss" width="400" border="10" /></a> 
 
 
 
